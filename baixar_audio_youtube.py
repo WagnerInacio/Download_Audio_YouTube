@@ -6,7 +6,7 @@ import os
 while True:
     # Digite o link do video e o local que deseja salvar o mp3
     link = input("Enter the link of the video you want to download: ")
-    path = "/media/wagner/660ADD2E0ADCFC4D/Projetos/Projetos Python/Projetos/Baixar Audio YouTube/Downloads"
+    path = "CAMINHO PARA SALVAR O ARQUIVO"
 
     # input("Enter the directory where you want to save the file: ")
     yt = YouTube(link)
